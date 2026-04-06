@@ -1,6 +1,6 @@
 # ccl-lsp
 
-Language Server Protocol implementation for [CColon](https://github.com/TRC-Loop/ccolon) — a bytecode-compiled programming language. Built with Go, using CColon's own lexer, parser, and formatter in-process.
+Language Server Protocol implementation for [CColon](https://github.com/TRC-Loop/ccolon), a bytecode-compiled programming language. Built with Go, using CColon's own lexer, parser, and formatter in-process.
 
 **Language docs & reference:** [ccolon.arne.sh](https://ccolon.arne.sh)
 
