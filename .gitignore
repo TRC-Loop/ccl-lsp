@@ -1,0 +1,19 @@
+# Binaries
+ccl-lsp
+ccl-lsp.exe
+
+# Go build cache
+/vendor/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Go module cache artifacts
+go.sum
