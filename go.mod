@@ -1,6 +1,6 @@
 module github.com/TRC-Loop/ccl-lsp
 
-go 1.23.3
+go 1.25.0
 
 require github.com/tliron/glsp v0.2.2
 
@@ -19,8 +19,8 @@ require (
 	github.com/sourcegraph/jsonrpc2 v0.2.0 // indirect
 	github.com/tliron/commonlog v0.2.8 // indirect
 	github.com/tliron/kutil v0.3.11 // indirect
-	golang.org/x/crypto v0.15.0 // indirect
-	golang.org/x/net v0.17.0 // indirect
-	golang.org/x/sys v0.14.0 // indirect
-	golang.org/x/term v0.14.0 // indirect
+	golang.org/x/crypto v0.49.0 // indirect
+	golang.org/x/net v0.52.0 // indirect
+	golang.org/x/sys v0.42.0 // indirect
+	golang.org/x/term v0.41.0 // indirect
 )

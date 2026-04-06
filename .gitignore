@@ -15,5 +15,3 @@ Thumbs.db
 *.swp
 *.swo
 
-# Go module cache artifacts
-go.sum
