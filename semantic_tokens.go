@@ -3,7 +3,7 @@ package main
 import (
 	"strings"
 
-	"github.com/TRC-Loop/ccolon/lexer"
+	"github.com/TRC-Loop/ccl-lsp/internal/lexer"
 	"github.com/tliron/glsp"
 	protocol "github.com/tliron/glsp/protocol_3_16"
 )

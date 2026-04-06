@@ -6,8 +6,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/TRC-Loop/ccolon/lexer"
-	"github.com/TRC-Loop/ccolon/parser"
+	"github.com/TRC-Loop/ccl-lsp/internal/lexer"
+	"github.com/TRC-Loop/ccl-lsp/internal/parser"
 )
 
 type ParseError struct {

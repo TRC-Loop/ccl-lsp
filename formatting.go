@@ -4,7 +4,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/TRC-Loop/ccolon/formatter"
+	"github.com/TRC-Loop/ccl-lsp/internal/formatter"
 	"github.com/tliron/glsp"
 	protocol "github.com/tliron/glsp/protocol_3_16"
 )

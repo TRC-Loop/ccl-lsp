@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/TRC-Loop/ccolon/parser"
+	"github.com/TRC-Loop/ccl-lsp/internal/parser"
 )
 
 type SymbolKind int

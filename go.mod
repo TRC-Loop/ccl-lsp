@@ -2,10 +2,7 @@ module github.com/TRC-Loop/ccl-lsp
 
 go 1.23.3
 
-require (
-	github.com/TRC-Loop/ccolon v0.0.0
-	github.com/tliron/glsp v0.2.2
-)
+require github.com/tliron/glsp v0.2.2
 
 require (
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1 // indirect
@@ -27,5 +24,3 @@ require (
 	golang.org/x/sys v0.14.0 // indirect
 	golang.org/x/term v0.14.0 // indirect
 )
-
-replace github.com/TRC-Loop/ccolon => ../ccolon/ccolon
